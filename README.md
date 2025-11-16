@@ -1,7 +1,8 @@
-# 🧹 System Cleanup Tool  
-### (GUI + CLI + Auto Scan + Safe Cleanup + Cross-Platform)
+📌 🔥 System Cleanup Tool – Advanced System Cache & Junk Cleaner (GUI + CLI)
 
-A powerful, safe and modern System Cleanup Tool built in Python — featuring:
+A powerful Windows system cleanup utility that automatically scans and removes unwanted temporary files, cache, thumbnails, browser data, pip cache, and more.
+
+Built with Python + Tkinter GUI + CLI Support, this tool makes your PC faster, lighter, and cleaner with a single click.
 
 - ✔ Tkinter GUI  
 - ✔ CLI Mode  
@@ -17,19 +18,15 @@ A powerful, safe and modern System Cleanup Tool built in Python — featuring:
 # 📸 Screenshots
 
 ### ⭐ GUI Home Screen  
-![GUI Start](assets/gui_start.png)
+![App Screenshot](https://github.com/nirajj87/advanced-system-cache-junk-cleaner/raw/main/screenshot.png)
+
 
 ---
 
 ### ⭐ After Scan (Detailed Report)  
-![GUI Scan](assets/gui_scan.png)
 
 ---
 
-# 🎬 Live Demo (GIF)
-
-### 🔥 Full GUI Scan + Cleanup  
-![Demo GIF](assets/demo.gif)
 
 ---
 
